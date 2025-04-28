@@ -462,7 +462,7 @@ struct sctp_sysctl {
 /* JRS - default congestion control module sysctl */
 #define SCTPCTL_DEFAULT_CC_MODULE_DESC		"Default congestion control module"
 #define SCTPCTL_DEFAULT_CC_MODULE_MIN		0
-#define SCTPCTL_DEFAULT_CC_MODULE_MAX		2
+#define SCTPCTL_DEFAULT_CC_MODULE_MAX		3
 #define SCTPCTL_DEFAULT_CC_MODULE_DEFAULT	0
 
 /* RS - default stream scheduling module sysctl */
